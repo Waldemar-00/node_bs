@@ -1,0 +1,32 @@
+{
+  "name": "node_bs",
+  "version": "1.0.0",
+  "description": "learning of Node",
+  "keywords": [
+    "NODE",
+    "node",
+    "learning",
+    "study"
+  ],
+  "homepage": "https://github.com/Waldemar-00/node_bs#readme",
+  "bugs": {
+    "url": "https://github.com/Waldemar-00/node_bs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waldemar-00/node_bs.git"
+  },
+  "license": "ISC",
+  "author": "uladzimir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "ts": "ts-node index.ts",
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
